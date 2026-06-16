@@ -69,3 +69,11 @@ Complete a month cost analysis of each Azure resource to give an estimate total 
 
 ## Architecture Explanation
 This is a placeholder section where you can provide an explanation and reasoning for your architecture selection for both the Azure Web App and Azure Function.
+
+
+python3.12 -m venv .venv
+source .venv/bin/activate
+
+
+
+pip install -r requirements.txt
